@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KicksCode/oda_front/issues"
   },
-  "homepage": "https://github.com/KicksCode/oda_front#readme"
+  "homepage": "https://github.com/KicksCode/oda_front#readme",
+  "dependencies": {
+    "react": "^16.5.1"
+  }
 }
